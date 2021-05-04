@@ -43,9 +43,9 @@ This project requires the following:
 
 ## Directories/Files/Components:
 
-server.js - Nodejs script for server
-models - Card Schemas
-routes- AJAX calls and routes
+- server.js - Nodejs script for server
+- models - Card Schemas
+- routes- AJAX calls and routes
 
 - *breinify-challenge > src (Contains all user interface files, libraries, and packages)
 - components - Contains all class components such as card-list, dashboard, create-card, edit-card
